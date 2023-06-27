@@ -1,0 +1,26 @@
+nav{
+    flex: 0%; align-self: center; font-style: unset;
+}
+
+
+h1{color:aqua;font-size:16 px}
+body{
+    background-color: rgb(209, 155, 155) 
+}
+h1{
+    color: rgb(100, 9, 80);
+    margin-left: 80px;
+}
+
+    p{
+        flood-color: aquamarine;
+    }
+            p{
+                flood-color: rgb(126, 90, 90);
+
+            }
+            p{font-style: oblique; font-family: 'Times New Roman', Times, serif;font: 400;flex-direction: column-reverse;}
+           form{
+            float: left; flex-wrap: wrap-reverse; font: bolder;
+            color: blueviolet;
+           }
